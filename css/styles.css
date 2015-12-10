@@ -1,0 +1,27 @@
+body {
+    font-family: Courier, serif;
+    background-color: #2A3A82;
+    color: white;
+    padding: 15px;}
+
+#page {
+    max-width: 940px;
+    min-width: 720px;
+    margin: 10px auto 10px auto;
+    padding: 20px;
+    border: 4px double #000;
+    background-color: gray;}
+
+h1 {
+    text-align: center;}
+
+ul.navbar {
+    padding: 20px;
+    margin: 0px auto 0px auto;
+    text-align: center;}
+
+li.navbar {
+    display: inline;
+    border: 3px solid;
+    padding: 5px;
+    border-radius: 10px;}
